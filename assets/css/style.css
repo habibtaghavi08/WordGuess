@@ -1,0 +1,56 @@
+/*1. element selector - name of tag */
+body{ 
+    text-align: center; 
+    font-size:large;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, "sans-serif"; 
+    background-color: white;
+    text-emphasis-color: limegreen;
+    color: limegreen;
+    background-image: url('https://www.tokkoro.com/picsup/2923402-car-race-cars-drifting-smoke-tracks___cars-wallpapers.jpg');
+    image-rendering: auto;
+    border: 3px solid limegreen; 
+    padding: 55px;
+    height: 175px;
+}
+
+h1 { 
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, "sans-serif";
+    color: limegreen; 
+    /* background-color: chartreuse; */
+}
+
+span{
+    color:limegreen;
+    height:300px;
+    width: 300px;
+}
+/* --------------------------------------------------- */
+/*2.  id selector- starts with # and name of id */
+
+#ShowWins{
+
+     font-size: large;
+     height:300px;
+     width: 300px;
+     color: limegreen;
+
+}
+
+#textbox{ text-align: center;
+         font-family: Impact, 'Arial Narrow Bold', sans-serif;  
+         font-style: italic; 
+         font-size: larger;
+         color: limegreen;
+         height:75px;
+         width: 30%;
+}
+
+/* --------------------------------------------------- */
+/*3.  class selector - starts with . and name of class */
+
+
+
+
