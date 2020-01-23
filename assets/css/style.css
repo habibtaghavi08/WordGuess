@@ -12,14 +12,16 @@ body{
     border: 3px solid limegreen; 
     padding: 55px;
     height: 175px;
-}
+ }
 
-h1 { 
+
+
+h1{
     text-align: center;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, "sans-serif";
     color: limegreen; 
-    /* background-color: chartreuse; */
+   
 }
 
 span{
